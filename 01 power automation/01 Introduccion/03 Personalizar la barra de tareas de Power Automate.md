@@ -30,4 +30,4 @@ Por ejemplo, podemos anclar la opción Conexiones (Connections), ya que la utili
 
 **Objetivo**: personalizar el entorno de trabajo para facilitar el acceso a las herramientas que utilizamos con mayor frecuencia y mejorar nuestro flujo de trabajo.
 
-![](Pasted%20image%2020261118144142.png)
+![](01%20power%20automation/01%20Introduccion/Adjuntos/Pasted%20image%2020261118144142.png)
