@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "02 power automation/01 Introduccion/03 Conceptos fundamentales de Power Automate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "03 Conceptos fundamentales de Power Automate"
             }
           }
         ]
@@ -190,18 +190,19 @@
   },
   "active": "7be030b6901dc373",
   "lastOpenFiles": [
+    "00 extras/01 cursos/Platzi - Curso de Power Apps y Power Automate.md",
+    "00 extras/01 cursos/Daxus latam - Dominando Power Automate.md",
+    "02 power automation/01 Introduccion/01 Ambientes (Environments) en Power Automate.md",
+    "02 power automation/02 fundamentos/05 Modificar un flujo.md",
+    "02 power automation/04 Herramientas Corporativas/Sin título.md",
+    "Readme.md",
     "02 power automation/01 Introduccion/03 Conceptos fundamentales de Power Automate.md",
     "02 power automation/01 Introduccion/02 Personalizar la barra de tareas de Power Automate.md",
-    "02 power automation/01 Introduccion/01 Ambientes (Environments) en Power Automate.md",
     "01 Power Platform/03 En qué procesos específicos es conveniente implementar Power Platform.md",
     "01 Power Platform/02 Niveles de desarrollo en Power Platform.md",
     "01 Power Platform/01 Power Platform.md",
-    "Readme.md",
     "01 Power Platform",
-    "00 extras/01 cursos/Platzi - Curso de Power Apps y Power Automate.md",
-    "00 extras/01 cursos/Daxus latam - Dominando Power Automate.md",
     "02 power automation/03 logica de los flujos/05 Hacer hasta (Do until) en Power Automate.md",
-    "02 power automation/04 Herramientas Corporativas/Sin título.md",
     "02 power automation/04 Herramientas Corporativas",
     "02 power automation/03 logica de los flujos/Adjuntos/Pasted image 20261125190426.png",
     "02 power automation/03 logica de los flujos/Adjuntos/Pasted image 20261125214122.png",
@@ -230,7 +231,6 @@
     "02 power automation/03 logica de los flujos/02 Variables en Power Automate.md",
     "02 power automation/03 logica de los flujos",
     "02 power automation/02 fundamentos/Adjuntos",
-    "02 power automation/02 fundamentos/06a Crear calendario Outlook.md",
     "02 power automation/02 fundamentos",
     "02 power automation/01 Introduccion/Adjuntos",
     "02 power automation/01 Introduccion",

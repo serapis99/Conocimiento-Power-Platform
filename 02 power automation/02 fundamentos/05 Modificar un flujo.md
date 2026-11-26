@@ -36,7 +36,7 @@ Para cambiar su modalidad de ejecución:
 3. Seleccionamos Eliminar (Delete).
 4. Confirmamos la eliminación cuando el sistema nos lo solicite.
 
-![](02%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121092018.png)
+![Pasted image 20261121092018](Adjuntos/Pasted%20image%2020261121092018.png)
 
 Al eliminar el desencadenador, estamos quitando el mecanismo que iniciaba el flujo manualmente. Las demás acciones del flujo pueden permanecer en el diseñador, siempre que no dependan de entradas que ya no existan.
 
@@ -48,7 +48,7 @@ Una vez eliminado el desencadenador anterior, podemos agregar uno nuevo.
 2. Buscamos `Periodicidad (Recurrence)`.
 3. Seleccionamos el desencadenador correspondiente.
 
-![](02%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121092146.png)
+![Pasted image 20261121092146](Adjuntos/Pasted%20image%2020261121092146.png)
 
 Este desencadenador permite iniciar el flujo automáticamente de acuerdo con un intervalo o una frecuencia que nosotros definamos.
 
@@ -82,7 +82,7 @@ La combinación de estos parámetros permite definir cuándo y con qué frecuenc
 >[!important] Importante: 
 >la periodicidad y los campos disponibles pueden variar dependiendo de la frecuencia seleccionada y de la configuración del desencadenador.
 
-![](02%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121093155.png)
+![Pasted image 20261121093155](Adjuntos/Pasted%20image%2020261121093155.png)
 
 ## 5. Guardar y verificar
 

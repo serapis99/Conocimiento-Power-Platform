@@ -31,7 +31,7 @@ A continuación:
 2. Asignamos un nombre al flujo.
 3. Hacemos clic en Crear (Create).
 
-![](02%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261119162602.png)
+![Pasted image 20261119162602](Adjuntos/Pasted%20image%2020261119162602.png)
 
 ## 2. Configurar el desencadenador
 
@@ -42,7 +42,7 @@ Entre las configuraciones disponibles encontramos:
 - Nombre del desencadenador: permite identificar el componente dentro del diseñador.
 - Entradas (Inputs): permiten definir información que el usuario deberá proporcionar al ejecutar el flujo.
 
-![](02%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261119163338.png)
+![Pasted image 20261119163338](Adjuntos/Pasted%20image%2020261119163338.png)
 
 
 ### Agregar entradas (Inputs)

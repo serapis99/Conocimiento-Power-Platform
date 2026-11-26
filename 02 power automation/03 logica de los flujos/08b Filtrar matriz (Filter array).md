@@ -29,7 +29,7 @@ En este ejemplo utilizaremos la salida (`body`) de la acción **Seleccionar (Sel
 
 De esta manera, filtraremos la matriz previamente transformada, en lugar de trabajar directamente con todos los datos originales.
 
-![](02%20power%20automation/03%20logica%20de%20los%20flujos/Adjuntos/Pasted%20image%2020261125184926.png)
+![Pasted image 20261125184926](Adjuntos/Pasted%20image%2020261125184926.png)
 
 ## 2. Condición de filtrado (Query)
 
@@ -37,7 +37,7 @@ En esta sección establecemos las condiciones que deben cumplir los elementos pa
 
 Podemos utilizar expresiones para acceder a las propiedades de cada elemento y realizar comparaciones.
 
-![](02%20power%20automation/03%20logica%20de%20los%20flujos/Adjuntos/Pasted%20image%2020261125190426.png)
+![Pasted image 20261125190426](Adjuntos/Pasted%20image%2020261125190426.png)
 
 ### Función item()
 

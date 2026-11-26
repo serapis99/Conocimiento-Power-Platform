@@ -91,7 +91,7 @@ De esta manera no necesitamos construir manualmente toda la estructura JSON del 
 >[!important] **Importante:** 
 >el ejemplo debe representar adecuadamente la estructura de los datos reales. Si existen propiedades opcionales, matrices u otros tipos de datos, debemos revisar el esquema generado para contemplar esas variaciones.
 
-![](02%20power%20automation/03%20logica%20de%20los%20flujos/Adjuntos/Pasted%20image%2020261125214122.png)
+![Pasted image 20261125214122](Adjuntos/Pasted%20image%2020261125214122.png)
 ## 3. ¿Qué obtenemos al utilizar Parse JSON?
 
 La principal ventaja de esta acción es que permite acceder a las propiedades del objeto mediante contenido dinámico.
