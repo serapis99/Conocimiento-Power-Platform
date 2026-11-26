@@ -78,7 +78,7 @@ Por ejemplo:
 
 El resultado será una nueva matriz con los campos definidos.
 
-![](01%20power%20automation/03%20logica%20de%20los%20flujos/Adjuntos/Pasted%20image%2020261125181613.png)
+![](02%20power%20automation/03%20logica%20de%20los%20flujos/Adjuntos/Pasted%20image%2020261125181613.png)
 
 ## 3. Transformación y limpieza de datos
 

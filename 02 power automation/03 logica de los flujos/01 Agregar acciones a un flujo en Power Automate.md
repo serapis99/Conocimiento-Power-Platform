@@ -48,7 +48,7 @@ Permite consultar información meteorológica, como las condiciones actuales del
 
 Permite enviar un correo electrónico utilizando una conexión configurada con Outlook.
 
-![](01%20power%20automation/03%20logica%20de%20los%20flujos/Adjuntos/Pasted%20image%2020261125093353.png)
+![](02%20power%20automation/03%20logica%20de%20los%20flujos/Adjuntos/Pasted%20image%2020261125093353.png)
 
 > [!important] Idea clave\
 > Las acciones de un flujo pueden trabajar de manera encadenada: una actividad obtiene información y otra puede utilizarla para realizar una operación diferente.

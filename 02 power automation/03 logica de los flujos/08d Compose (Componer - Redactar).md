@@ -21,7 +21,7 @@ Se utiliza para construir estructuras de datos, almacenar temporalmente valores,
 
 Aunque puede recibir diferentes tipos de datos, es especialmente útil para construir objetos y matrices JSON.
 
-![](01%20power%20automation/03%20logica%20de%20los%20flujos/Adjuntos/Pasted%20image%2020261125213726.png)
+![](02%20power%20automation/03%20logica%20de%20los%20flujos/Adjuntos/Pasted%20image%2020261125213726.png)
 
 ## 1. Construcción de estructuras JSON
 

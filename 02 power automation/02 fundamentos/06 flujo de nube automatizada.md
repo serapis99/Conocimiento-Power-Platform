@@ -27,12 +27,12 @@ Le asignamos un nombre a nuestro flujo y buscamos el desencadenador correspondie
 
 **Buscamos la aplicación**: `Office 365 Outlook`
 
-![](01%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121110646.png)
+![](02%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121110646.png)
 Una vez seleccionada, se mostrarán los desencadenadores disponibles para esta aplicación.
 
 **Seleccionamos**: Cuando se crea un evento nuevo (V3)
 
-![](01%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121110749.png)
+![](02%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121110749.png)
 
 Este desencadenador permite detectar la creación de nuevos eventos en el calendario seleccionado y utilizar la información del evento como datos de entrada para las siguientes acciones del flujo.
 
@@ -44,7 +44,7 @@ Una vez agregado el desencadenador, debemos configurar sus propiedades.
 | --------------------- | --------------------------------------------------------------------- |
 | Calendario (Calendar) | Seleccionar el calendario donde queremos detectar los nuevos eventos. |
 
-En este caso seleccionaremos nuestro calendario: [Crear calendario Outlook](01%20power%20automation/02%20fundamentos/06a%20Crear%20calendario%20Outlook.md)
+En este caso seleccionaremos nuestro calendario: [Crear calendario Outlook](02%20power%20automation/02%20fundamentos/06a%20Crear%20calendario%20Outlook.md)
 
 
 >[!note] Nota:
@@ -89,7 +89,7 @@ Dentro de las acciones disponibles seleccionamos: Agregar una fila a una tabla (
 
 Esta acción permite insertar un nuevo registro en una tabla de Excel utilizando los datos que recibimos del desencadenador de Outlook.
 
-![](01%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121220750.png)
+![](02%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121220750.png)
 
 ### Configurar la acción
 
@@ -106,7 +106,7 @@ En nuestro caso, seleccionaremos el sitio de SharePoint donde almacenamos el arc
 
 Una vez seleccionado el archivo y la tabla, Power Automate reconocerá las columnas que componen la tabla y nos mostrará los campos que podemos diligenciar.
 
-![](01%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121220611.png)
+![](02%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121220611.png)
 
 ## 5. Asignar valores dinámicos de Outlook
 

@@ -27,14 +27,14 @@ Power Platform permite trabajar con diferentes ambientes, por ejemplo:
 
 Antes de crear un flujo, debemos verificar si tenemos disponible un ambiente de desarrollo o pruebas y seleccionarlo.
 
-![](01%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261119160124.png)
+![](02%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261119160124.png)
 
 Si no contamos con el ambiente adecuado, podemos consultar o administrar los ambientes desde el administrador de Power Platform.
 
 - **Ruta de acceso**: [Administrador de Power Platform](https://admin.powerplatform.microsoft.com/home?utm_source=chatgpt.com)
 - **Ruta dentro del administrador**:`Administrar → Entornos → Nuevo`
 
-![](01%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261119155926.png)
+![](02%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261119155926.png)
 
 Desde allí podemos consultar los ambientes existentes y, dependiendo de nuestros permisos y licencias, crear uno nuevo.
 
@@ -46,7 +46,7 @@ Desde allí podemos consultar los ambientes existentes y, dependiendo de nuestro
 
 Una vez seleccionado el ambiente correcto, podemos dirigirnos a Crear (Create). Allí encontraremos diferentes tipos de flujos, según el propósito de la automatización y la forma en que queremos que se ejecute.
 
-![](01%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261119160338.png)
+![](02%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261119160338.png)
 
 1\. **Flujo de nube automatizado (Automated cloud flow)**
 

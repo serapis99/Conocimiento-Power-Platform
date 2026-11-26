@@ -75,7 +75,7 @@ Para hacerlo:
 
 De esta manera, podemos utilizar las variables creadas anteriormente en las comparaciones de nuestras condiciones.
 
-![](01%20power%20automation/03%20logica%20de%20los%20flujos/Adjuntos/Pasted%20image%2020261125101803.png)
+![](02%20power%20automation/03%20logica%20de%20los%20flujos/Adjuntos/Pasted%20image%2020261125101803.png)
 
 >[!note] **Nota:** 
 >debemos asegurarnos de que los tipos de datos sean compatibles. Por ejemplo, para comparar cantidades numéricas es recomendable utilizar variables de tipo Integer o Float, en lugar de String.
@@ -97,6 +97,6 @@ Ventas > 1000 AND Clientes > 50
 
 La condición será verdadera únicamente cuando las ventas superen los 1000 y el número de clientes sea superior a 50.
 
-![](01%20power%20automation/03%20logica%20de%20los%20flujos/Adjuntos/Pasted%20image%2020261125102405.png)
+![](02%20power%20automation/03%20logica%20de%20los%20flujos/Adjuntos/Pasted%20image%2020261125102405.png)
 
 

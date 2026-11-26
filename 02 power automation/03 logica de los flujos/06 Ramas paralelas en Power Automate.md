@@ -39,7 +39,7 @@ Para crear una rama paralela:
 
 Cada rama puede contener varias actividades que se ejecutarán secuencialmente dentro de ella, mientras las demás ramas avanzan de manera independiente.
 
-![](01%20power%20automation/03%20logica%20de%20los%20flujos/Adjuntos/Pasted%20image%2020261125145255.png)
+![](02%20power%20automation/03%20logica%20de%20los%20flujos/Adjuntos/Pasted%20image%2020261125145255.png)
 
 ## 3. ¿En qué situaciones se suelen utilizar?
 

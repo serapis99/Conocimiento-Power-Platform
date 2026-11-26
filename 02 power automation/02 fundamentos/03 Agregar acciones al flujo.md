@@ -30,7 +30,7 @@ En este caso utilizaremos la acción Enviar un correo electrónico (V2) — Send
 
 Esta acción nos permite enviar un correo electrónico desde una cuenta conectada, especificando los destinatarios, el asunto y el contenido del mensaje.
 
-![](01%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121084149.png)
+![](02%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121084149.png)
 
 ### Configuración de la acción
 
@@ -60,7 +60,7 @@ Cuando ya tenemos configurados los componentes básicos:
 
 Podemos proceder a guardar el flujo haciendo clic en Guardar (Save).
 
-![](01%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121084441.png)
+![](02%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121084441.png)
 
 Guardar permite conservar la configuración y los cambios realizados en nuestro flujo.
 

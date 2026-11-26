@@ -34,13 +34,13 @@ Esto nos permite validar:
 - Que las acciones se ejecutan.
 - Que el flujo produce el resultado esperado.
 
-![](01%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121085753.png)
+![](02%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121085753.png)
 
 ## 2. Ejecutar el flujo desde Mis flujos
 
 Una vez realizadas las pruebas desde el editor, podemos salir de él y volver a nuestro flujo posteriormente desde el módulo Mis flujos (My flows).
 
-![](01%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121085827.png)
+![](02%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121085827.png)
 
 En esta sección podemos buscar y localizar los flujos que hemos creado.
 Al posicionarnos sobre nuestro flujo, se habilitan diferentes opciones, entre ellas:
@@ -51,7 +51,7 @@ Al posicionarnos sobre nuestro flujo, se habilitan diferentes opciones, entre el
 
 En esta ocasión seleccionaremos Ejecutar (Run) para iniciar nuestro flujo sin necesidad de entrar nuevamente al editor.
 
-![](01%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121085901.png)
+![](02%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121085901.png)
 
 ## 3. Consultar el administrador del flujo
 
@@ -59,7 +59,7 @@ Después de ejecutar el flujo, podemos hacer clic sobre su nombre para acceder a
 
 Desde allí podemos encontrar diferentes opciones y herramientas para gestionar y supervisar nuestra automatización.
 
-![](01%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121085956.png)
+![](02%20power%20automation/02%20fundamentos/Adjuntos/Pasted%20image%2020261121085956.png)
 
 Entre las principales opciones podemos encontrar:
 
