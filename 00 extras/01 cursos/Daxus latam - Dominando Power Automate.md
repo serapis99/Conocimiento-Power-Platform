@@ -1,8 +1,8 @@
 ---
 tipo: Curso
 fecha_inicio: 2026-11-18
-fecha_objetivo: 2026-12-20
-estado: activo
+fecha_objetivo: 2026-11-30
+estado: terminado
 areas: Automatización
 Curso: Dominando Power Automate
 Tutor: Zaira Hurtado Gonzales
@@ -29,13 +29,22 @@ calificación: 8
 16. [Ramas paralelas en Power Automate](../../02%20power%20automation/03%20logica%20de%20los%20flujos/06%20Ramas%20paralelas%20en%20Power%20Automate.md)
 17. [Funciones y expresiones en Power Automate](../../02%20power%20automation/03%20logica%20de%20los%20flujos/07%20Funciones%20y%20expresiones%20en%20Power%20Automate.md)
 18. [Variables de tipo objeto (Object) en Power Automate](../../02%20power%20automation/03%20logica%20de%20los%20flujos/02b%20Variables%20de%20tipo%20objeto%20(Object)%20en%20Power%20Automate.md)
-19. [Operaciones de datos (Data Operations)](../../02%20power%20automation/03%20logica%20de%20los%20flujos/08%20Operaciones%20de%20datos%20(Data%20Operations).md)
-20. [Seleccionar (Select)](../../02%20power%20automation/03%20logica%20de%20los%20flujos/08a%20Seleccionar%20(Select).md)
-21. [Filtrar matriz (Filter array)](../../02%20power%20automation/03%20logica%20de%20los%20flujos/08b%20Filtrar%20matriz%20(Filter%20array).md)
-22. [Crear tablas CSV y HTML (Create CSV table - Create HTML table)](../../02%20power%20automation/03%20logica%20de%20los%20flujos/08c%20Crear%20tablas%20CSV%20y%20HTML%20(Create%20CSV%20table%20-%20Create%20HTML%20table).md)
-23. [Enviar tablas HTML y CSV por correo electrónico en Power Automate](../../02%20power%20automation/03%20logica%20de%20los%20flujos/09%20Enviar%20tablas%20HTML%20y%20CSV%20por%20correo%20electrónico%20en%20Power%20Automate.md)
-24. [Compose (Componer - Redactar)](../../02%20power%20automation/03%20logica%20de%20los%20flujos/08d%20Compose%20(Componer%20-%20Redactar).md)
-25. [Parse JSON (Analizar JSON - Análisis del archivo JSON)](../../02%20power%20automation/03%20logica%20de%20los%20flujos/08e%20Parse%20JSON%20(Analizar%20JSON%20-%20Análisis%20del%20archivo%20JSON).md)
 
+## Operación de datos
 
-## Ejercicios
+1. [Operaciones de datos (Data Operations)](../../02%20power%20automation/03%20logica%20de%20los%20flujos/08%20Operaciones%20de%20datos%20(Data%20Operations).md)
+2. [Seleccionar (Select)](../../02%20power%20automation/03%20logica%20de%20los%20flujos/08a%20Seleccionar%20(Select).md)
+3. [Filtrar matriz (Filter array)](../../02%20power%20automation/03%20logica%20de%20los%20flujos/08b%20Filtrar%20matriz%20(Filter%20array).md)
+4. [Crear tablas CSV y HTML (Create CSV table - Create HTML table)](../../02%20power%20automation/03%20logica%20de%20los%20flujos/08c%20Crear%20tablas%20CSV%20y%20HTML%20(Create%20CSV%20table%20-%20Create%20HTML%20table).md)
+5. [Enviar tablas HTML y CSV por correo electrónico en Power Automate](../../02%20power%20automation/03%20logica%20de%20los%20flujos/09%20Enviar%20tablas%20HTML%20y%20CSV%20por%20correo%20electrónico%20en%20Power%20Automate.md)
+6. [Compose (Componer - Redactar)](../../02%20power%20automation/03%20logica%20de%20los%20flujos/08d%20Compose%20(Componer%20-%20Redactar).md)
+7. [Parse JSON (Analizar JSON - Análisis del archivo JSON)](../../02%20power%20automation/03%20logica%20de%20los%20flujos/08e%20Parse%20JSON%20(Analizar%20JSON%20-%20Análisis%20del%20archivo%20JSON).md)
+
+## Herramientas de empresa
+
+- [Flujos de aprobaciones en Power Automate](../../02%20power%20automation/04%20Herramientas%20Corporativas/01%20Flujos%20de%20aprobaciones%20en%20Power%20Automate.md)
+- [Desencadenadores de SharePoint en Power Automate](../../02%20power%20automation/04%20Herramientas%20Corporativas/02%20Desencadenadores%20de%20SharePoint%20en%20Power%20Automate.md)
+- [Automatizaciones entre Power Automate y Power BI](../../02%20power%20automation/04%20Herramientas%20Corporativas/03%20Automatizaciones%20entre%20Power%20Automate%20y%20Power%20BI.md)
+- [OneDrive en Power Automate](../../02%20power%20automation/04%20Herramientas%20Corporativas/04%20OneDrive%20en%20Power%20Automate.md)
+- [Desencadenadores de herramientas externas en Power Automate](../../02%20power%20automation/04%20Herramientas%20Corporativas/05%20Desencadenadores%20de%20herramientas%20externas%20en%20Power%20Automate.md)
+- [Archivos adjuntos y creación de archivos CSV en Power Automate](../../02%20power%20automation/04%20Herramientas%20Corporativas/06%20Archivos%20adjuntos%20y%20creación%20de%20archivos%20CSV%20en%20Power%20Automate.md)

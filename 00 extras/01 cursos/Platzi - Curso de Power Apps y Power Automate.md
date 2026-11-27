@@ -2,7 +2,7 @@
 tipo: Curso
 fecha_inicio: 2026-11-25
 fecha_objetivo: 2026-12-26
-estado: activo
+estado: terminado
 areas: Automatización
 Curso: Curso de Power Apps y Power Automate
 Tutor: Fátima Blancas
@@ -14,4 +14,5 @@ calificación: 5
 1. [Power Platform](../../01%20Power%20Platform/01%20Power%20Platform.md)
 2. [Niveles de desarrollo en Power Platform](../../01%20Power%20Platform/02%20Niveles%20de%20desarrollo%20en%20Power%20Platform.md)
 3. [En qué procesos específicos es conveniente implementar Power Platform](../../01%20Power%20Platform/03%20En%20qué%20procesos%20específicos%20es%20conveniente%20implementar%20Power%20Platform.md)
-4. 
+4. [Qué plataforma elegir para almacenar datos](../../01%20Power%20Platform/04%20Qué%20plataforma%20elegir%20para%20almacenar%20datos.md)
+5. 

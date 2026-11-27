@@ -4,24 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "74cb8e1d1ab7bebc",
+        "id": "27bad79103727302",
         "type": "tabs",
         "children": [
           {
-            "id": "7be030b6901dc373",
+            "id": "5615411ce7c0b57e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 power automation/01 Introduccion/03 Conceptos fundamentales de Power Automate.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 Conceptos fundamentales de Power Automate"
+              "title": "Readme"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -188,15 +189,44 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "7be030b6901dc373",
+  "active": "5615411ce7c0b57e",
   "lastOpenFiles": [
     "00 extras/01 cursos/Platzi - Curso de Power Apps y Power Automate.md",
     "00 extras/01 cursos/Daxus latam - Dominando Power Automate.md",
+    "02 power automation/04 Herramientas Corporativas/06 Archivos adjuntos y creación de archivos CSV en Power Automate.md",
+    "02 power automation/03 logica de los flujos/04 Aplicar a cada uno (Apply to each) en Power Automate.md",
+    "02 power automation/04 Herramientas Corporativas/05 Desencadenadores de herramientas externas en Power Automate.md",
+    "02 power automation/04 Herramientas Corporativas/04 OneDrive en Power Automate.md",
+    "Readme.md",
+    "04 power bi",
+    "00 extras/02 certificados/platzi-power apps y power automate.pdf",
+    "00 extras/02 certificados/dexus- Dominando Power Automate.pdf",
+    "00 extras/02 certificados/nexus- Dominando Power Automate.pdf",
+    "00 extras/02 certificados/Sin confirmar 545876.crdownload",
+    "02 power automation/04 Herramientas Corporativas/Adjuntos/Pasted image 20261126210224.png",
+    "02 power automation/04 Herramientas Corporativas/03 Automatizaciones entre Power Automate y Power BI.md",
+    "02 power automation/04 Herramientas Corporativas/03a Usar Power Automate desde Power BI.md",
+    "02 power automation/04 Herramientas Corporativas/Adjuntos/guardar el flujo y activarlo.gif",
+    "02 power automation/04 Herramientas Corporativas/Adjuntos/Pasted image 20261126163421.png",
+    "02 power automation/04 Herramientas Corporativas/Adjuntos/editar flujo.gif",
+    "02 power automation/04 Herramientas Corporativas/Adjuntos/seleccionar datos 1.gif",
+    "02 power automation/04 Herramientas Corporativas/Adjuntos/seleccionar datos.gif",
+    "02 power automation/04 Herramientas Corporativas/Adjuntos/seleccionar entorno.gif",
+    "02 power automation/04 Herramientas Corporativas/Adjuntos/Pasted image 20261126160934.png",
+    "03 power app",
+    "00 extras/Sin nombre",
+    "02 power automation/04 Herramientas Corporativas/02 Desencadenadores de SharePoint en Power Automate.md",
+    "02 power automation/04 Herramientas Corporativas/02b Crear un chat en Microsoft Teams sin una conversación previa.md",
+    "02 power automation/04 Herramientas Corporativas/02a Formularios en SharePoint.md",
+    "02 power automation/04 Herramientas Corporativas/Adjuntos/Pasted image 20261126135731.png",
+    "02 power automation/04 Herramientas Corporativas/Adjuntos/Pasted image 20261126135641.png",
+    "02 power automation/03 logica de los flujos/07 Funciones y expresiones en Power Automate.md",
+    "02 power automation/04 Herramientas Corporativas/01 Flujos de aprobaciones en Power Automate.md",
+    "02 power automation/04 Herramientas Corporativas/Adjuntos",
+    "01 Power Platform/04 Qué plataforma elegir para almacenar datos.md",
+    "02 power automation/01 Introduccion/03 Conceptos fundamentales de Power Automate.md",
     "02 power automation/01 Introduccion/01 Ambientes (Environments) en Power Automate.md",
     "02 power automation/02 fundamentos/05 Modificar un flujo.md",
-    "02 power automation/04 Herramientas Corporativas/Sin título.md",
-    "Readme.md",
-    "02 power automation/01 Introduccion/03 Conceptos fundamentales de Power Automate.md",
     "02 power automation/01 Introduccion/02 Personalizar la barra de tareas de Power Automate.md",
     "01 Power Platform/03 En qué procesos específicos es conveniente implementar Power Platform.md",
     "01 Power Platform/02 Niveles de desarrollo en Power Platform.md",
@@ -204,37 +234,8 @@
     "01 Power Platform",
     "02 power automation/03 logica de los flujos/05 Hacer hasta (Do until) en Power Automate.md",
     "02 power automation/04 Herramientas Corporativas",
-    "02 power automation/03 logica de los flujos/Adjuntos/Pasted image 20261125190426.png",
-    "02 power automation/03 logica de los flujos/Adjuntos/Pasted image 20261125214122.png",
-    "02 power automation/03 logica de los flujos/Adjuntos/Pasted image 20261125213726.png",
-    "02 power automation/03 logica de los flujos/Adjuntos/Pasted image 20261125184926.png",
-    "02 power automation/03 logica de los flujos/Adjuntos/Pasted image 20261125102405.png",
-    "02 power automation/03 logica de los flujos/Adjuntos/Pasted image 20261125184847.png",
-    "02 power automation/03 logica de los flujos/Adjuntos/Pasted image 20261125181613.png",
-    "02 power automation/03 logica de los flujos/Adjuntos/Pasted image 20261125145255.png",
-    "02 power automation/03 logica de los flujos/Adjuntos/Pasted image 20261125093353.png",
-    "02 power automation/03 logica de los flujos/Adjuntos/Pasted image 20261125101803.png",
-    "02 power automation/03 logica de los flujos/Adjuntos",
     "02 power automation/03 logica de los flujos/09 Enviar tablas HTML y CSV por correo electrónico en Power Automate.md",
     "02 power automation/03 logica de los flujos/08e Parse JSON (Analizar JSON - Análisis del archivo JSON).md",
-    "02 power automation/03 logica de los flujos/08d Compose (Componer - Redactar).md",
-    "02 power automation/03 logica de los flujos/08c Crear tablas CSV y HTML (Create CSV table - Create HTML table).md",
-    "02 power automation/03 logica de los flujos/08b Filtrar matriz (Filter array).md",
-    "02 power automation/03 logica de los flujos/08a Seleccionar (Select).md",
-    "02 power automation/03 logica de los flujos/08 Operaciones de datos (Data Operations).md",
-    "02 power automation/03 logica de los flujos/06 Ramas paralelas en Power Automate.md",
-    "02 power automation/03 logica de los flujos/07 Funciones y expresiones en Power Automate.md",
-    "02 power automation/03 logica de los flujos/04 Aplicar a cada uno (Apply to each) en Power Automate.md",
-    "02 power automation/03 logica de los flujos/02b Variables de tipo objeto (Object) en Power Automate.md",
-    "02 power automation/03 logica de los flujos/03 Condiciones en Power Automate.md",
-    "02 power automation/03 logica de los flujos/01 Agregar acciones a un flujo en Power Automate.md",
-    "02 power automation/03 logica de los flujos/02 Variables en Power Automate.md",
-    "02 power automation/03 logica de los flujos",
-    "02 power automation/02 fundamentos/Adjuntos",
-    "02 power automation/02 fundamentos",
-    "02 power automation/01 Introduccion/Adjuntos",
-    "02 power automation/01 Introduccion",
-    "02 power automation/04 Herramientas Corporativas",
-    "02 power automation/03 logica de los flujos/Adjuntos"
+    "02 power automation/03 logica de los flujos/08d Compose (Componer - Redactar).md"
   ]
 }
